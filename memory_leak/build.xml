@@ -52,5 +52,10 @@
         <delete file="fileWrtr.txt"/>
         <delete file="sampleOut.txt"/>
         <delete file="sampleOutput.txt"/>
+        <delete file="java_pid2808.hprof"/>
+        <delete file="java_pid3056.hprof"/>
+        <delete file="java_pid6644.hprof"/>
+        <delete file="java_pid13720.hprof"/>
+		
     </target>
 </project>
